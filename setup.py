@@ -6,6 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="powerline_slotmachine",
     version="1.0.0",
+    license="GPLv3+",
     author="Miguel de Dios Matias",
     author_email="tres.14159@gmail.com",
     description=" A toy Powerline segment. This segment shows a slotmachine.",
@@ -21,4 +22,7 @@ setuptools.setup(
         "Topic :: Games/Entertainment"
     ],
     python_requires='>=3.7',
+    install_requires=[
+        'appdirs>=1.4.3'
+    ]
 )
