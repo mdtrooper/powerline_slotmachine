@@ -24,5 +24,6 @@ setuptools.setup(
     python_requires='>=3.7',
     install_requires=[
         'appdirs>=1.4.3'
-    ]
+    ],
+    platforms=['any']
 )
