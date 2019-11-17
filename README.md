@@ -33,7 +33,7 @@ Only execute something in the prompt and the slotmachine will bet.
 
 The bet is 1 coin. The user starts with 10 coins.
 
-![screenshot](https://github.com/mdtrooper/powerline_slotmachine/raw/master/powerline_slotmachine.png "Screenshot")
+![screenshot](https://raw.githubusercontent.com/mdtrooper/powerline_slotmachine/master/powerline_slotmachine.jpg "Screenshot")
 
 ### Combinations
 
