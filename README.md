@@ -26,7 +26,28 @@ for example in `.config/powerline/themes/shell/default.json`:
 
 But the Powerline Slotmachine store the last combination and money amount in `<home>/.config/powerline_slotmachine.json`.
 
-# License
+
+## Usage
+
+Only execute something in the prompt and the slotmachine will bet.
+
+The bet is 1 coin. The user starts with 10 coins.
+
+![screenshot](https://github.com/mdtrooper/powerline_slotmachine/raw/master/powerline_slotmachine.png "Screenshot")
+
+### Combinations
+
+Slot   | Prize
+------ | ----
+🍇🍇🍇 | 1
+🍋🍋🍋 | 2
+🍉🍉🍉 | 4
+🍒🍒🍒 | 15
+⭐⭐⭐ | 100
+XX🍒 | 5
+X🍒🍒| 10
+
+## License
 
 Licensed under [the GPL3 License](https://github.com/mdtrooper/powerline_slotmachine/blob/master/LICENSE).
 
